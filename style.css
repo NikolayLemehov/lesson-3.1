@@ -1,0 +1,23 @@
+table {
+	border-collapse: collapse;
+	border: 1px solid black;
+	/* width: 580px; */
+	text-align: center;
+}
+td {
+	border: 1px solid black;
+	width: 45px;
+}
+td.nounderline {
+	border-bottom-color: transparent;
+}
+.artable {
+	text-align: right;
+	padding-right: 15px;
+}
+.paddingup {
+	padding-top: 5px;
+}
+.paddingdown {
+	padding-bottom: 4px;
+}
